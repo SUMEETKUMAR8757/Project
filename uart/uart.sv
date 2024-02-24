@@ -1,3 +1,4 @@
+##....sumeet kumar..
 interface UART_IF;
   
   //rx
@@ -174,7 +175,6 @@ module UART_RX
   
 endmodule // UART_RX
 //////////////////////////////////////////////////////////////////////
-// File Downloaded from http://www.nandland.com
 //////////////////////////////////////////////////////////////////////
 // This file contains the UART Transmitter.  This transmitter is able
 // to transmit 8 bits of serial data, one start bit, one stop bit,
